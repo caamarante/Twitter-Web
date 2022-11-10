@@ -38,19 +38,19 @@ Para incorporar a fonte, copie o código no `<head>` do seu html
 
 | Cor                  | Hexadecimal                                                             |
 | -----------------    | ----------------------------------------------------------------------- |
-| Black                | ![#0F1419](https://via.placeholder.com/10/0F1419?Text=Digital.com) #0F1419        |
-| Dark-100             | ![#17202A](https://via.placeholder.com/10/17202A?text=+) #17202A        |
-| Dark-200             | ![#1C2733](https://via.placeholder.com/10/1C2733?text=+) #1C2733        |
-| Dark-300             | ![#283340](https://via.placeholder.com/10/283340?text=+) #283340        |
-| Dark-400             | ![#3A444C](https://via.placeholder.com/10/3A444C?text=+) #3A444C        |
-| Dark-500             | ![#5B7083](https://via.placeholder.com/10/5B7083?text=+) #5B7083        |
-| Dark-600             | ![#8899A6](https://via.placeholder.com/10/8899A6?text=+) #8899A6        |
-| Dark-700             | ![#EBEEF0](https://via.placeholder.com/10/EBEEF0?text=+) #EBEEF0        |
-| Dark-800             | ![#F7F9FA](https://via.placeholder.com/10/F7F9FA?text=+) #F7F9FA        |
-| Primary-blue         | ![#1DA1F2](https://via.placeholder.com/10/1DA1F2?text=+) #1DA1F2        |
-| Primary-blue-opacity | ![#1DA1F280](https://via.placeholder.com/10/1DA1F280?text=+) #1DA1F280  |
-| Dark-blue            | ![#0073BF](https://via.placeholder.com/10/0073BF?text=+) #0073BF        |
-| White                | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) #FFFFFF        |
+| Black                | #0F1419        |
+| Dark-100             | #17202A        |
+| Dark-200             | #1C2733        |
+| Dark-300             | #283340        |
+| Dark-400             | #3A444C        |
+| Dark-500             | #5B7083        |
+| Dark-600             | #8899A6        |
+| Dark-700             | #EBEEF0        |
+| Dark-800             | #F7F9FA        |
+| Primary-blue         | #1DA1F2        |
+| Primary-blue-opacity | #1DA1F280      |
+| Dark-blue            | #0073BF        |
+| White                | #FFFFFF        |
 
 ## Rodar o projeto
 
