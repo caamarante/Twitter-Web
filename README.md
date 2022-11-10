@@ -38,7 +38,7 @@ Para incorporar a fonte, copie o código no `<head>` do seu html
 
 | Cor                  | Hexadecimal                                                             |
 | -----------------    | ----------------------------------------------------------------------- |
-| Black                | ![#0F1419](https://via.placeholder.com/10/0F1419?text=+) #0F1419        |
+| Black                | ![#0F1419](https://via.placeholder.com/10/0F1419?Text=Digital.com) #0F1419        |
 | Dark-100             | ![#17202A](https://via.placeholder.com/10/17202A?text=+) #17202A        |
 | Dark-200             | ![#1C2733](https://via.placeholder.com/10/1C2733?text=+) #1C2733        |
 | Dark-300             | ![#283340](https://via.placeholder.com/10/283340?text=+) #283340        |
