@@ -54,7 +54,7 @@ Para incorporar a fonte, copie o código no `<head>` do seu html
 
 ## Rodar o projeto
 
-No terminal
+No terminal da pasta react-design-system
 
 ```bash
   npm run storybook
