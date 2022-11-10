@@ -1,0 +1,15 @@
+.textareaTweetar {
+    outline: none;
+    resize: none;
+    margin-top: .625rem;
+    border: none;
+    font-size: 1.25rem;
+    background-color: transparent;
+}
+
+.feed__tweetar__form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding-left: .75rem;
+}
