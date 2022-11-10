@@ -11,7 +11,7 @@ export default {
     },
     argTypes: {
         size: {
-            options: ['13px', '14px'],
+            options: ['13px', '14px', '15px', '16px'],
             control: {
                 type: 'inline-radio'
             }
