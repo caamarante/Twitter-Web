@@ -1,0 +1,15 @@
+.searchBar {
+    width: 20.75rem;
+    height: 2.4375rem;
+    border-radius: 9999px;
+    border: none;
+    padding-left: 1rem;
+    outline: none;
+}
+
+.searchBar::placeholder {
+    background-image: url(../assets/SearchDefault.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-left: 2.1875rem;
+}
